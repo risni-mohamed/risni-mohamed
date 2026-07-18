@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="260" viewBox="0 0 640 260">
+<rect width="640" height="260" rx="26" fill="#0b1022" stroke="#8b5cf6"/>
+<text x="30" y="42" fill="#c084fc" font-size="22" font-family="Arial" font-weight="700">CORE TECHNOLOGIES</text>
+<text x="35" y="78" fill="#fff" font-size="16" font-family="Arial">JavaScript / React</text>
+    <rect x="180" y="64" width="390" height="14" rx="7" fill="#222842"/>
+    <rect x="180" y="64" width="0" height="14" rx="7" fill="#facc15">
+      <animate attributeName="width" from="0" to="330" dur="1.4s" begin="0.0s" fill="freeze"/>
+    </rect><text x="35" y="112" fill="#fff" font-size="16" font-family="Arial">Python / Django</text>
+    <rect x="180" y="98" width="390" height="14" rx="7" fill="#222842"/>
+    <rect x="180" y="98" width="0" height="14" rx="7" fill="#38bdf8">
+      <animate attributeName="width" from="0" to="285" dur="1.4s" begin="0.15s" fill="freeze"/>
+    </rect><text x="35" y="146" fill="#fff" font-size="16" font-family="Arial">PHP / Laravel</text>
+    <rect x="180" y="132" width="390" height="14" rx="7" fill="#222842"/>
+    <rect x="180" y="132" width="0" height="14" rx="7" fill="#a78bfa">
+      <animate attributeName="width" from="0" to="250" dur="1.4s" begin="0.3s" fill="freeze"/>
+    </rect><text x="35" y="180" fill="#fff" font-size="16" font-family="Arial">MySQL / Firebase</text>
+    <rect x="180" y="166" width="390" height="14" rx="7" fill="#222842"/>
+    <rect x="180" y="166" width="0" height="14" rx="7" fill="#fb7185">
+      <animate attributeName="width" from="0" to="300" dur="1.4s" begin="0.44999999999999996s" fill="freeze"/>
+    </rect><text x="35" y="214" fill="#fff" font-size="16" font-family="Arial">HTML / CSS / Tailwind</text>
+    <rect x="180" y="200" width="390" height="14" rx="7" fill="#222842"/>
+    <rect x="180" y="200" width="0" height="14" rx="7" fill="#22d3ee">
+      <animate attributeName="width" from="0" to="360" dur="1.4s" begin="0.6s" fill="freeze"/>
+    </rect></svg>
